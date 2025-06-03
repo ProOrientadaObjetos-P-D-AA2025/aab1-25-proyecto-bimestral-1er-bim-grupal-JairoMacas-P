@@ -1,0 +1,8 @@
+NrBus      Desde/Hacia          Nombre               Ubicación                 Horario   
+-------------------------------------------------------------------------------------------
+
+56         Hacia                Leon                 Mercadillo           7:00      
+Ruta-> Bolivar -> Puerta c
+
+56         Desde                Leon                 Mercadillo           12:00     
+Ruta-> Tecnico -> Bolivar -> San pedro

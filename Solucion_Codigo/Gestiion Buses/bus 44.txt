@@ -1,0 +1,14 @@
+NrBus      Desde/Hacia          Parada               Ubicación                 Horario   
+-------------------------------------------------------------------------------------------
+
+44         Hacia                Leon                 Mercadillo           7:00      
+Ruta-> Bolivar -> Tecnico -> Urna
+
+44         Desde                Leon                 Mercadillo           11:00     
+Ruta-> Bolivar -> Epoca
+
+44         Desde                Leon                 Mercadillo           2:00      
+Ruta-> Terminal -> Bomba llave
+
+44         Hacia                Leon                 Mercadillo           18        
+Ruta-> Leon -> SAN SEBAS -> Epoca -> Argelia
