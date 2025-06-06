@@ -1,0 +1,7 @@
+NrBus      Desde/Hacia     Parada               Ubicacion            Horario   
+-------------------------------------------------------------------------------------------
+77         hacia           Epoca                redondel epoca       7:00      
+Ruta-> Bolivar -> Puerta C -> Tecnico
+
+77         Desde           parqueadero          parqueadero          12:00     
+Ruta-> Puerta C -> Bomba

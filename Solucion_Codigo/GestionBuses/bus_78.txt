@@ -1,0 +1,8 @@
+NrBus      Desde/Hacia     Parada               Ubicacion            Horario   
+-------------------------------------------------------------------------------------------
+78         Desde           Leon                 Mecadillo            7:30      
+Ruta-> Bolivar -> Puerta C -> C tecnico
+
+78         Hacia           Bomba llave          Chile & hunduras     13:00     
+Ruta-> Terminal -> Banco -> bolivar -> leon
+

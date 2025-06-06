@@ -1,0 +1,11 @@
+NrBus      Desde/Hacia     Parada               Ubicacion            Horario   
+-------------------------------------------------------------------------------------------
+66         Hacua           Argelia              Bomba                8:30      
+Ruta-> leon -> puerta c
+
+66         Desde           Parqueadero          Epoca                12:00     
+Ruta-> llave -> pitas -> tecnico
+
+66         Hacia           Operadores           redondel mater       15:00     
+Ruta-> epoca -> divino niño -> bombca -> tecnio
+

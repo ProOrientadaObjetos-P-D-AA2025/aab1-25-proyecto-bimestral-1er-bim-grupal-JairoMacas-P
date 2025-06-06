@@ -1,0 +1,8 @@
+NrBus      Desde/Hacia     Parada               Ubicacion            Horario   
+-------------------------------------------------------------------------------------------
+87         Hacia           Bomba                24 de may            7:00      
+Ruta-> Llave -> Terminal
+
+87         Hacia           San sebas            Argelia              11:00     
+Ruta-> Lineal -> Etadio -> Cole tec
+

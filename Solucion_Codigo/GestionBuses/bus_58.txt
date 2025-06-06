@@ -1,0 +1,8 @@
+NrBus      Desde/Hacia     Parada               Ubicacion            Horario   
+-------------------------------------------------------------------------------------------
+58         Hacia           Leon                 Mercadillo           7:30      
+Ruta-> Bolivar -> Puerta C
+
+58         Hacia           Leon                 Mercadillo           2         
+Ruta-> Epoca -> Argelia -> Bomba llave
+

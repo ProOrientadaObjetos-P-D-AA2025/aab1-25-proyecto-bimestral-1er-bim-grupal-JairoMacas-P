@@ -1,0 +1,8 @@
+NrBus      Desde/Hacia     Parada               Ubicacion            Horario   
+-------------------------------------------------------------------------------------------
+345        Hacia           Argelia              Canda & Honduras     8:30      
+Ruta-> Hospital Isidro Ayora -> Parque Central  -> Av. 10 de Agosto -> Av. Nueva Loja  -> Franz Liszt -> Terminal Ciudad
+
+345        Desde           Epoca                Redondel Epoca       12:00     
+Ruta->  Av. Daniel Cordova  -> Parque Central  -> 10 de Agosto
+

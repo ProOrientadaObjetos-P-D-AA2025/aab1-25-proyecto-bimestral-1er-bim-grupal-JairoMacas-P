@@ -1,0 +1,8 @@
+NrBus      Desde/Hacia     Parada               Ubicacion            Horario   
+-------------------------------------------------------------------------------------------
+987        Hacia           Zamor                Chile & Mercadillo   8:00      
+Ruta-> Operadores -> Mercadillo
+
+987        Desde           Epoca                Redondel Epoca       15:00     
+Ruta-> Hospital Isidro -> Parque Central -> Nueva Loja -> Franz Liszt  -> Bomba Llave -> Terminal
+
